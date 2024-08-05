@@ -65,7 +65,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=sahayvansh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
      <br/>
   <br/>
-  <img width=325 align="center" src="![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahayvansh&show_icons=true&theme=radical)" alt="top langs" />
+  <img width=325 align="center" src="[![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahayvansh)](https://github.com/anuraghazra/github-readme-stats)" alt="top langs" />
 </div>
 
 <br/><br/>
